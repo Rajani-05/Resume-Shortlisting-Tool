@@ -210,7 +210,7 @@ We welcome contributions! Here's how you can help:
 ### Development Setup
 ```bash
 # Clone your fork
-git clone https://github.com/archit2501/resume-shortlisting-tool.git
+git clone https://github.com/Rajani-05/resume-shortlisting-tool.git
 
 # Install development dependencies
 pip install -r requirements.txt
@@ -238,17 +238,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Flask** community for web framework
 - **Bootstrap** for responsive UI components
 
-## 📞 Support & Contact
 
-- **🐛 Issues**: [GitHub Issues](https://github.com/archit2501/resume-shortlisting-tool/issues)
-- **💡 Feature Requests**: [GitHub Discussions](https://github.com/archit2501/resume-shortlisting-tool/discussions)
-- **📧 Email**: architjain2501@gmail.com
-- **💼 LinkedIn**: [Archit Jain](https://linkedin.com/in/architjain01)
 
-## ⭐ Show Your Support
-
-If this project helped you, please give it a ⭐ on GitHub!
-
----
-
-**Made with ❤️ by [Archit Jain](https://github.com/archit2501)**
