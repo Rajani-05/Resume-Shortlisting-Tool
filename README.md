@@ -6,7 +6,7 @@
 [![Demo](https://img.shields.io/badge/Demo-Live-orange.svg)](https://archit2501.github.io/resume-shortlisting-tool/)
 [![Website](https://img.shields.io/badge/Website-Live-brightgreen.svg)](https://archit2501.github.io/resume-shortlisting-tool/)
 
-## 🌐 Live Website
+## 🌐 Live Website : https://resume-shortlisting-tool.vercel.app/
 **🚀 Experience the tool online:** [https://github.com/Rajani-05/Resume-Shortlisting-Tool.git](https://github.com/Rajani-05/Resume-Shortlisting-Tool.git)
 
 ## Overview
@@ -56,7 +56,7 @@ This project provides an AI-powered tool that analyzes resumes and job descripti
 ### Option 1: Automated Setup (Recommended)
 ```bash
 # Clone the repository
-git clone https://github.com/archit2501/resume-shortlisting-tool.git
+git clone https://github.com/Rajani-05/resume-shortlisting-tool.git
 cd resume-shortlisting-tool
 
 # Run automated setup
