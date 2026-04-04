@@ -7,7 +7,7 @@
 [![Website](https://img.shields.io/badge/Website-Live-brightgreen.svg)](https://archit2501.github.io/resume-shortlisting-tool/)
 
 ## 🌐 Live Website : https://resume-shortlisting-tool.vercel.app/
-**🚀 Experience the tool online:** [https://github.com/Rajani-05/Resume-Shortlisting-Tool.git](https://github.com/Rajani-05/Resume-Shortlisting-Tool.git)
+**🚀 Experience the tool :** [https://github.com/Rajani-05/Resume-Shortlisting-Tool.git](https://github.com/Rajani-05/Resume-Shortlisting-Tool.git)
 
 ## Overview
 This project provides an AI-powered tool that analyzes resumes and job descriptions to determine the best fit between candidates and job roles. It uses advanced NLP techniques to compute similarity scores, identify matched skills, and highlight missing qualifications.
