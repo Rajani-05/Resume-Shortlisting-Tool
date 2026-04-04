@@ -28,7 +28,7 @@ This project provides an AI-powered tool that analyzes resumes and job descripti
 ### Visualization Dashboard
 ![Visualization](screenshots/visualization.png)
 *Interactive charts showing match scores and skill gaps*
-**🚀 Experience the tool :** [https://github.com/Rajani-05/Resume-Shortlisting-Tool.git](https://github.com/Rajani-05/Resume-Shortlisting-Tool.git)
+
 
 
 > **📁 Add your screenshots to the `screenshots/` folder with these exact names:**
@@ -53,6 +53,7 @@ This project provides an AI-powered tool that analyzes resumes and job descripti
 - **🎯 Smart Suggestions**: AI-generated improvement recommendations
 
 ## 🚀 Quick Start
+**🚀 Experience the tool :** [https://github.com/Rajani-05/Resume-Shortlisting-Tool.git](https://github.com/Rajani-05/Resume-Shortlisting-Tool.git)
 
 ### Option 1: Automated Setup (Recommended)
 ```bash
