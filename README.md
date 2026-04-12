@@ -183,30 +183,12 @@ We welcome contributions! Here's how you can help:
 6. **🚀 Push to branch**: `git push origin feature/amazing-feature`
 7. **📋 Open a Pull Request**
 
-### Development Setup
-```bash
-# Clone your fork
-git clone https://github.com/Rajani-05/resume-shortlisting-tool.git
-
-# Install development dependencies
-pip install -r requirements.txt
-pip install pytest black flake8
-
-# Run tests
-python test_installation.py
-
-# Format code
-black *.py
-
-# Check style
-flake8 *.py
-```
 
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - **spaCy** team for excellent NLP library
 - **PyMuPDF** for reliable PDF processing
