@@ -6,37 +6,11 @@
 [![Demo](https://img.shields.io/badge/Demo-Live-orange.svg)](https://archit2501.github.io/resume-shortlisting-tool/)
 [![Website](https://img.shields.io/badge/Website-Live-brightgreen.svg)](https://archit2501.github.io/resume-shortlisting-tool/)
 
-## 🌐 Live Website : https://resume-shortlisting-tool.vercel.app/
+## 🌐 Live Website : <h3>https://resume-shortlisting-tool.vercel.app/</h3>
 
 ## Overview
 This project provides an AI-powered tool that analyzes resumes and job descriptions to determine the best fit between candidates and job roles. It uses advanced NLP techniques to compute similarity scores, identify matched skills, and highlight missing qualifications.
 
-## 🎯 Demo & Screenshots
-
-### Main Interface
-![Main Interface](screenshots/main-interface.png)
-*Upload resume and job description to get instant match analysis*
-
-### Match Results
-![Match Results](screenshots/match-results.png)
-*Detailed match score with skills analysis and suggestions*
-
-### Batch Analysis
-![Batch Analysis](screenshots/batch-analysis.png)
-*Process multiple resumes simultaneously with ranking*
-
-### Visualization Dashboard
-![Visualization](screenshots/visualization.png)
-*Interactive charts showing match scores and skill gaps*
-
-
-
-> **📁 Add your screenshots to the `screenshots/` folder with these exact names:**
-> - `main-interface.png` - Homepage with upload form
-> - `match-results.png` - Results page showing match score
-> - `batch-analysis.png` - Batch processing page
-> - `visualization.png` - Charts and graphs
-> - `help-page.png` - Help documentation page
 
 ## ✨ Features
 - **📄 PDF Resume Parsing**: Extract text from PDF resumes using PyMuPDF
