@@ -12,7 +12,7 @@
 This project provides an AI-powered tool that analyzes resumes and job descriptions to determine the best fit between candidates and job roles. It uses advanced NLP techniques to compute similarity scores, identify matched skills, and highlight missing qualifications.
 
 
-## ✨ Features
+## ✨ Features -
 - **📄 PDF Resume Parsing**: Extract text from PDF resumes using PyMuPDF
 - **💼 Job Description Analysis**: Process job descriptions from text input or files
 - **🧠 NLP Processing**: Clean and preprocess text using spaCy
